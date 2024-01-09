@@ -101,7 +101,7 @@ if __name__ == "__main__":
         # Get the experiment id if it already exists
         experiment_id = client.get_experiment_by_name(experiment_name).experiment_id
 
-    remote_uri = "http://127.0.0.1:5000"
+    remote_uri = ""
     mlflow.set_tracking_uri(remote_uri)
 
     with mlflow.start_run(experiment_id='1') as run:
