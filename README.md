@@ -1,6 +1,6 @@
 # MLflow Model Repository: Streamlining MLOps with Experiments
 Mlflow is a leading MLOps tool. This repository contains mlflow based models. 
-
+![](mlflow.png)
 ## Getting Started
 To start mlflow server use following commands:
 mlflow server \
