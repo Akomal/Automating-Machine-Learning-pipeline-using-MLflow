@@ -14,7 +14,7 @@ Clone the repo using following command:
 _git@github.com:Akomal/Mlflow-Experiments.git_
 
 **Start MLflow Server:**
-Execute the commands mentioned above to initiate the MLflow server with the specified configurations.
+Add the remote uri in mlflow code file. Execute the commands mentioned above to initiate the MLflow server with the specified configurations.
 
 **Explore Models:**
 Browse through the collection of MLflow-based models available in this repository.
