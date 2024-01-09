@@ -11,7 +11,7 @@ mlflow server \
 ## Quick Setup
 **Clone Repository:**
 Clone the repo using following command:
-_git clone https://github.com/your-username/Mlflow-Experiments.git_
+_git@github.com:Akomal/Mlflow-Experiments.git_
 
 **Start MLflow Server:**
 Execute the commands mentioned above to initiate the MLflow server with the specified configurations.
