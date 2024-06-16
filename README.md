@@ -1,4 +1,4 @@
-# MLflow Model Repository: Streamlining MLOps with Experiments
+# Automating Machine Learning pipeline using MLflow
 Mlflow is a leading MLOps tool. This repository contains mlflow based models. 
 ![](mlflow.png)
 ## Getting Started
