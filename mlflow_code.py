@@ -17,7 +17,6 @@ from mlflow.tracking import MlflowClient
 from mlflow.models.signature import infer_signature, ModelSignature
 from mlflow.types.schema import Schema
 
-
 def data_upload():
     root = tk.Tk()
     root.withdraw()
