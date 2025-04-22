@@ -3,9 +3,6 @@ import pandas as pd
 from mlflow.pyfunc import PyFuncModel
 import mlflow
 
-
-
-
 #Retrieving results and making predictions on new data using registered model
 logged_model =""#runid against which you want to get predictions
 
